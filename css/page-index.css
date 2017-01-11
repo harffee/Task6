@@ -1,0 +1,43 @@
+
+.w{
+	width: 892px;
+	margin: 0 auto;
+}
+.header{
+	/*height: 1386px;*/
+	
+	border-bottom: 2px #938e8c solid;
+	position: relative;
+	background-color: yellowgreen;
+	
+	
+}
+.date
+{
+	float: right;
+}
+.date p
+{
+	position: absolute;
+	bottom: 0px;
+	font: 12px "黑体";
+	color: #d45d5c;
+}
+.block 
+{
+	height:61px;
+	width: 110px;
+	background: url(../img/block.png) no-repeat;
+	position: relative;
+	
+}
+.block p
+{
+	font: 12px "黑体";
+	color: #ffffff;
+	position: absolute;
+	bottom: 0px;
+	
+}
+
+
